@@ -1,0 +1,8 @@
+Freja is a webtemplate made by Mårten Pålsson as an assignment in a course in 
+“Databaser och objektorienterad programmering i PHP” on BTH. Freja is based 
+on Anax
+
+Anax is a PHP-boilerplate/framework for small websites. Anax was built by 
+Mikael Roos (me@mikaelroos.se) as part of teaching web programming and 
+published in june 2013 as an article at http://dbwebb.se/kunskap (swedish). 
+It was also published at GitHub: https://github.com/mosbth/Anax-base.
